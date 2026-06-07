@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Task1_RegistrationForm/Task1_RegistrationForm.csproj" />
+  <Project Path="Task2_BeerRadioButton/Task2_BeerRadioButton.csproj" />
+  <Project Path="Task3_BeerCheckBox/Task3_BeerCheckBox.csproj" />
+</Solution>
